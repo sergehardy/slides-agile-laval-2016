@@ -17,6 +17,10 @@ https://github.com/slara/generator-reveal
 
 Markdown pour les slides
 
+## Installation
+
+```npm install```
+
 ## Utilisation
 
 Pour générer un nouveau slide en Markdown:
@@ -25,3 +29,10 @@ Pour générer un nouveau slide en Markdown:
 yo reveal:slide "Nom de mon super slide" --markdown
 ```
 
+## Lancement
+
+```grunt serve```
+
+=> http://localhost:9000
+
+Note: alias grunt="./node_modules/grunt-cli/bin/grunt"
