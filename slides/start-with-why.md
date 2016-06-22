@@ -1,5 +1,7 @@
 # Start with why
 
+Agile, DevOps, Lean... comment aller au delà de la surface et retrouver le sens profond des approches ?
+
 
 
 ## Sylvain
@@ -14,13 +16,11 @@ mais il y a un côté magique, et je n'aime pas la magie
 
 ## Serge
 
-y'en a un peu marre des raccourcis sur certains "outils" je pense
-
+Raccourcis sur certains "outils"
 
 - Scrum = changer tout le temps
 - DevOps = Continous Delivery
 - Lean = Moins cher et plus vite
 - etc...
 
-on perd l'esprit original; si on regarde un peu le manifeste, on est à l'opposé de tout ça
-puisque "individus et interactions" c'est quand même le seul truc important là dedans
+L'esprit original est à l'opposé : "individus et interactions". 
