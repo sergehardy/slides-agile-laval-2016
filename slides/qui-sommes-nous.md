@@ -7,7 +7,7 @@
 <img src="resources/srevereault.jpg">
 
 
-@shardy
+@sergehardy
 <img src="resources/shardy.jpg">
 
 
