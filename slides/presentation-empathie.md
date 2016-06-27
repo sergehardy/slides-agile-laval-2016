@@ -45,8 +45,8 @@ Les progrès technologiques démultiplient les possibilités d'empathie.
 
 Ceci tend à inverser les rapports économique et intellectuels: altruisme inenvisageable il y a 20 ans.
 
-Ex: 
-- open-source 
+Ex:
+- open-source
 - wikipidia
 
 
@@ -58,22 +58,12 @@ Paradoxe entropie/empathie
 
 Pour être plus empathique notre facture énergétique augmente.
 
-Mais l'empathie crée de l'ordre dans un système complexe (moins de déchets) 
+Mais l'empathie crée de l'ordre dans un système complexe (moins de déchets)
 
 => Equilibre à trouver
 Thermodynamique
 
 EMPATHIE SYSTEMIQUE
 
-Agir en priorisant la performance du système entreprise et en étant au service des autres. 
+Agir en priorisant la performance du système entreprise et en étant au service des autres.
 Agir avec empathie et mettre de côté ses propres succès pour favoriser le succès des autres et surtout celui du système auquel on appartient (système entreprise = entreprise à performance économique, sociale et sociétale donc système ouvert). Cela suppose de fonctionner dans des logiques de processus.
-
-
-
-
-
-
-
-          
-
-
