@@ -1,13 +1,23 @@
-# Comment faire preuve de plus d'empathie?
+## Comment faire preuve de plus d'empathie?
+
+Donnant/donnant:
+
+* y répondre
+* la susciter
+
 
 Note:
  voici quelques élements trouvés sur des sites de développement personnel
 
-Voyons comment on peut appliquer ça à l'agilité
+Le but de cette section n'est pas de donner des conseils à la Psychologie magazine
+mais de voir voyons comment on peut appliquer ça à l'agilité:
+
+- dans quelle situation
+- comment
 
 
 
-## Se connecter aux autres à travers l'empathie
+## 1. Se connecter aux autres
 
 
 
@@ -19,12 +29,20 @@ Voyons comment on peut appliquer ça à l'agilité
 * Reformuler pour assurer l'interlocuteur de son écoute et de sa compréhension
 * Proposer un début de solution
 
+
+
+### Daily Scrum
+![](http://www.scrum-agile.com/img/stand-up-meeting.jpg)
+
+
 Note: 
 bienveillance et disponibilité 
 ( regard, posture)
 
 Rétros
 Daily meeting
+
+Avez-vous déjà experimentés des Standup où chacun se contente de raconter ce qu'il a fait et ce qu'il va faire?
 
 
 
@@ -33,6 +51,21 @@ Daily meeting
 * Exprimer son ressenti sur un sujet plutôt que des opinions et des pensées  
 * Commencer ses phrases par "Je"
 
+
+
+### Behaviour Driven Development
+```
+Feature: Serve coffee
+  In order to earn money
+  Customers should be able to
+  buy coffee at all times
+
+  Scenario: Buy last coffee
+    Given there are 1 coffees left in the machine
+    And I have deposited 1 dollar
+    When I press the coffee button
+    Then I should be served a coffee
+```
 
 Note:
 
@@ -43,10 +76,9 @@ Backlog grooming
 
 
 
-### Retenir ses préjugés
+### Garder ses premières impressions
 ### Se concentrer sur l'extérieur
 ### Proposer de l'aide
-
 
 Note:
 
@@ -59,18 +91,41 @@ Gandhi "soit le changement"
 
 
 
-## Accumuler de l'empathie
+## Gemba walk 
+![](resources/9901339071516.jpg)
 
-### Etre curieux envers les inconnus
 
 Note:
 
-Aller voir les autres projets (utililité du management visuel)
+Patron qui va se mettre dans la peau d'un employé pour se reconnecter à la réalité
+
+Qui a un manager/patron de ce genre?
+
+
+
+## 2.Accumuler de l'empathie
+
+### Etre curieux envers les inconnus
+
+
+
+## Management visuel
+![](resources/tableau-kanban.jpg)
+
+Note:
+
+Aller voir les autres projets (utilité du management visuel)
+Votre board est-il public/visible?
+
 
 
 ### Faire du bénévolat
 
+
+![](resources/brown-bag-lunch.png)
+
 Note: proposer des activités de type BBL
+s'investir dans une association de type Agile Tour :-)
 
 
 
@@ -81,6 +136,16 @@ Note: proposer des activités de type BBL
 
 * Imaginer ce que ressent l'autre
 * Lire
+
+
+
+## Innovation games
+
+Remember the future - Product box
+
+<img width="30%" heigth="30%" src="resources/remember-the-future.jpg" />
+<img width="30%" heigth="30%" src="resources/product-box.jpg" />
+
 
 Note:
 

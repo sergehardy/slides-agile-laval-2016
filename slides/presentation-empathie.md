@@ -4,7 +4,7 @@
 
 
 
-Etymologie
+## Etymologie
 
 
 Einfühlung (1872): ressenti de l'intérieur
@@ -13,8 +13,7 @@ Projection de la sensibilité d'un observateur sur un objet.
 
 Terme repris par Freud en 1905
 
-Différent de:
-- sympathie : dimension affective
+Différent de sympathie : dimension affective
 
 
 
@@ -30,10 +29,9 @@ L'évolution de l'humanité tend vers un renforcement de cette cohésion.
 
 ## Composante anthropologique
 
-Postulat: l'empathie est le fil conducteur de l'évolution de l'humanité.
+Postulat: l'empathie est un fil conducteur de l'évolution de l'humanité.
 
 Son vecteur en sont les moyens de communications et l'évolution technologique.
-
 
 - Société chasseur/cueilleur - communication orale - ère mythologique ( - 10000 )
 - Société agricole - communication écrite - ère théologique ( - 3000 )
