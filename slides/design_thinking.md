@@ -7,3 +7,20 @@
 ## Design Thinking
 
 ![empathy map](/resources/empathy-map.jpg)
+
+
+
+## Story Mapping
+
+IMG STORY MAPPING
+
+Note:
+
+
+
+## Design Studio
+
+IMG DESIGN STUDIO
+
+Note:
+
