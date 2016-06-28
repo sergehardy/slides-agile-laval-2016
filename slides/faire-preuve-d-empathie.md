@@ -36,7 +36,7 @@ Attention, ça peut être trompeur => on ressent en miroir mais on analyse avec 
 
 
 ### Daily Scrum
-![](http://www.scrum-agile.com/img/stand-up-meeting.jpg)
+![](resources/stand-up-meeting.jpg)
 
 
 Note:
