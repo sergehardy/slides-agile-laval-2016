@@ -7,7 +7,7 @@
 ## Etymologie
 
 
-Einfühlung (1872): ressenti de l'intérieur
+Einfühlung (1872): "Vivre en soi le moi de l'autre"
 
 Projection de la sensibilité d'un observateur sur un objet.
 

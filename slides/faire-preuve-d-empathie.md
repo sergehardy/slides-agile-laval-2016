@@ -30,13 +30,17 @@ mais de voir voyons comment on peut appliquer ça à l'agilité:
 * Proposer un début de solution
 
 
+Note:
+Attention, ça peut être trompeur => on ressent en miroir mais on analyse avec nos propres filtres. Il faut faire confirmer par l'autre.
+
+
 
 ### Daily Scrum
 ![](http://www.scrum-agile.com/img/stand-up-meeting.jpg)
 
 
-Note: 
-bienveillance et disponibilité 
+Note:
+bienveillance et disponibilité
 ( regard, posture)
 
 Rétros
@@ -91,7 +95,7 @@ Gandhi "soit le changement"
 
 
 
-## Gemba walk 
+## Gemba walk
 ![](resources/9901339071516.jpg)
 
 
@@ -150,4 +154,3 @@ Remember the future - Product box
 Note:
 
 Des recherches ont montré que les personnes qui lisent des romans de fiction ont une meilleure compréhension des émotions, des comportements et des intentions des autres.
-
