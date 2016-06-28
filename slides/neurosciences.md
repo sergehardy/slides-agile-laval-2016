@@ -2,7 +2,7 @@
 
 
 
-## Les réseaux miroir
+## Les réseaux miroirs
 
 ![neurones](/resources/cacahuetes.jpg)
 
