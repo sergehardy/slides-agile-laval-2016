@@ -16,7 +16,7 @@ Terme repris par Freud en 1905
 Différent de sympathie : dimension affective
 
 
-
+Note:
 Pourquoi regardons-nous la télévision?
 
 La fiction, les drames nous effraient, captivent car ils sont exotiques.
@@ -29,6 +29,10 @@ L'évolution de l'humanité tend vers un renforcement de cette cohésion.
 
 ## Composante anthropologique
 
+IMG EVOLUTION:
+
+Note:
+
 Postulat: l'empathie est un fil conducteur de l'évolution de l'humanité.
 
 Son vecteur en sont les moyens de communications et l'évolution technologique.
@@ -38,8 +42,6 @@ Son vecteur en sont les moyens de communications et l'évolution technologique.
 - Société industrielle (charbon) - communication imprimée - ère idéologique (18e-19e)
 - Société industrielle (électricité+pétrole) - communication analogique - ère psychologique ( 20e )
 - Société @ - communication numérique - ère empathique (21e)
-
-
 
 Les progrès technologiques démultiplient les possibilités d'empathie.   
 
@@ -53,9 +55,11 @@ Ex:
 
 ## Composante systémique
 
-
+IMG TCHOUCHOU
 Paradoxe entropie/empathie
 
+
+Note:
 Pour être plus empathique notre facture énergétique augmente.
 
 Mais l'empathie crée de l'ordre dans un système complexe (moins de déchets)
