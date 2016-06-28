@@ -1,3 +1,7 @@
+# Ce que nous disent les neuro-sciences
+
+
+
 ## Les réseaux miroir
 
 ![neurones](/resources/cacahuetes.jpg)
@@ -32,3 +36,6 @@ Perspective de l'obervateur extérieur : exemple de la mère Chimpanzé qui se s
 ## Sources
 
 - Darwin, mécanismes de survie
+
+
+![chats](/resources/chats.jpg)
