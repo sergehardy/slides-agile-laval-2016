@@ -1,4 +1,4 @@
-## Ouverture anthropologique
+## Conclusion
 
 ![](resources/evolution.jpg)
 
@@ -24,10 +24,11 @@ Ex:
 
 
 
-## Ouverture sur l'enseignement
+## Conclusion
 
 La connaissance est accessible, le savoir est ouvert.
-Les enjeux de l'éducation...
+
+Nouveau enjeux pour l'éducation...
 
 Savoir-être, bienveillance
 
