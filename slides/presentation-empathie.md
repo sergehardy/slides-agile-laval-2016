@@ -17,6 +17,10 @@ Différent de sympathie : dimension affective
 
 
 Note:
+Einfühlung : Robert Vischer.
+
+Empathie - le philospohe Théodore Lipps (repris par Freud)
+
 Pourquoi regardons-nous la télévision?
 
 La fiction, les drames nous effraient, captivent car ils sont exotiques.

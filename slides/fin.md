@@ -30,3 +30,18 @@ La connaissance est accessible, le savoir est ouvert.
 Les enjeux de l'éducation...
 
 Savoir-être, bienveillance
+
+
+
+## Références
+[Page wikipedia sur l'empathie](https://fr.wikipedia.org/wiki/Empathie)
+
+[Page wikipedia sur les neurones miroirs](https://fr.wikipedia.org/wiki/Neurone_miroir)
+
+[Jérémy Rifkin - Une nouvelle conscience pour un monde en crise](https://www.amazon.fr/nouvelle-conscience-pour-monde-crise/dp/2918597279)
+
+[Dr Ramachandran - conférence TED sur les neurones miroirs](https://www.ted.com/talks/vs_ramachandran_the_neurons_that_shaped_civilization?language=fr)
+
+[J.C. Ameisen - Sur les épaules de Darwin - émission du 03/11/2012](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin/sur-les-epaules-de-darwin-03-novembre-2012)
+
+[J.C. Ameisen - Sur les épaules de Darwin - émission du 21/06/2014](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin/sur-les-epaules-de-darwin-21-juin-2014)
