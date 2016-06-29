@@ -33,11 +33,27 @@ L'évolution de l'humanité tend vers un renforcement de cette cohésion.
 
 ## Composante systémique
 
-IMG TCHOUCHOU
+
+<img src="resources/tchoutchou.jpg" width="400px" />
+
 Paradoxe entropie/empathie
 
 
 Note:
+
+Dans la théorie des systèmes complexes qui peut s'appliquer à la thermodynamique ou à un groupe d'individus,
+la notion fondamentale est celle d'interaction, de feedback
+
+Ces interactions peuvent créer de l'ordre ou du désordre (entropie).
+
+L'empathie est une interaction positive qui crée de l'ordre et nécessite un apport d'energie pour garder sa stabilité.
+
+Donc ça ne peut pas marcher sans y mettre du sien.
+---------------------------------------------------
+Les moyens de communication et de transport sont énergivore.
+
+Avec les TIC, pour plus d'empathie il faut plus d'énergie, c'est un des défis de demain.
+
 Pour être plus empathique notre facture énergétique augmente.
 
 Mais l'empathie crée de l'ordre dans un système complexe (moins de déchets)

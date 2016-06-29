@@ -93,6 +93,8 @@ désintéressée
 
 Gandhi "soit le changement"
 
+Lean Startup: on ne se fie qu'au résultats remontés par les utilisateurs
+
 
 
 ## Gemba walk
@@ -140,6 +142,8 @@ s'investir dans une association de type Agile Tour :-)
 
 * Imaginer ce que ressent l'autre
 * Lire
+
+Note:
 
 
 

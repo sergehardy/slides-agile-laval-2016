@@ -4,6 +4,8 @@
 
 Note:
 
+l'agilité est un des reflets de l'évolution des rapports humains qui va vers plus d'interactions et plus d'empathie
+
 Postulat: l'empathie est un fil conducteur de l'évolution de l'humanité.
 
 Son vecteur en sont les moyens de communications et l'évolution technologique.
@@ -30,6 +32,8 @@ La connaissance est accessible, le savoir est ouvert.
 
 Nouveau enjeux pour l'éducation...
 
+
+Note:
 Savoir-être, bienveillance
 
 
