@@ -19,7 +19,7 @@ Markdown pour les slides
 
 ## Installation
 
-```npm install```
+```./install.sh```
 
 ## Utilisation
 
