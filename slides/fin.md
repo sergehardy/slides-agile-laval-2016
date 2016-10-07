@@ -38,6 +38,8 @@ Savoir-être, bienveillance
 
 
 
+
+
 ## Références
 [Page wikipedia sur l'empathie](https://fr.wikipedia.org/wiki/Empathie)
 
