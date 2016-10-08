@@ -2,7 +2,7 @@
 
 ![](resources/r2d2.jpg)
 
-Notes:
+Note:
 http://www.r2-d2.de/Character/character.htm
 
 ## Empathy map

@@ -7,11 +7,11 @@
 ## Etymologie
 
 
-Einfühlung (1872): "Vivre en soi le moi de l'autre"
+*Einfühlung (1872)*: "Vivre en soi le moi de l'autre"
 
 Projection de la sensibilité d'un observateur sur un objet.
 
-Terme repris par Freud en 1905
+Terme repris par **Freud** en 1905
 
 Différent de sympathie : dimension affective
 
@@ -38,8 +38,14 @@ L'évolution de l'humanité tend vers un renforcement de cette cohésion.
 
 Paradoxe entropie/empathie
 
-
 Note:
+
+Deux phénomènes historiquement disjoints mais qui convergent de manière paradoxale
+
+Société qui concourt à l'état d'équilibre vers une conscience globale via les TIC
+Mais qui n'est pas durable car bilan énérgétique très défavorable
+
+=> équilibre à trouver 
 
 Dans la théorie des systèmes complexes qui peut s'appliquer à la thermodynamique ou à un groupe d'individus,
 la notion fondamentale est celle d'interaction, de feedback
@@ -48,6 +54,7 @@ Ces interactions peuvent créer de l'ordre ou du désordre (entropie).
 
 L'empathie est une interaction positive qui crée de l'ordre et nécessite un apport d'energie pour garder sa stabilité.
 
+Cet apport d'energie doit être "soutenable"
 Donc ça ne peut pas marcher sans y mettre du sien.
 ---------------------------------------------------
 Les moyens de communication et de transport sont énergivore.

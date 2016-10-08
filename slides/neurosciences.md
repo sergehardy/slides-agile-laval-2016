@@ -1,8 +1,8 @@
-# Ce que nous disent les neuro-sciences
+## Ce que nous disent les neuro-sciences
 
 
 
-## Les réseaux miroirs
+### Les réseaux miroirs
 
 ![neurones](/resources/cacahuetes.jpg)
 
@@ -13,7 +13,7 @@ Sérendipité.
 
 
 
-## Cartes sensorielles
+### Cartes sensorielles
 
 ![neurones](/resources/neurones.png)
 
@@ -29,7 +29,7 @@ Chez 1% de personnes, la carte primaire s'active => synesthésie en miroir au to
 
 
 
-## Mécanismes
+### Mécanismes
 - Contagion émotionnelle (inconsciente).
 - Envie d'aider, de soulager... de l'empathie à la sympathie
 - Observateur extérieur : observation consciente
@@ -41,7 +41,7 @@ Perspective de l'obervateur extérieur : exemple de la mère Chimpanzé qui se s
 
 
 
-## Sources
+### Sources
 
 - Darwin, mécanismes de survie
 

@@ -1,20 +1,24 @@
 ## Comment être un meilleur empathe
 
-On a demandé comment améliorer son empathie:
-- au grand internet
-- elle
+On a demandé au grand internet comment améliorer son empathie:
+=> elle.fr
 
-https://cercle.institut-pandore.com/mentalisme/devenir-empathique-5-etapes/
+* Imaginer ce que ressent l'autre
+* Lire
+* Mettre au défi ses propres préjugés
+* Faire du bénévolat
+* Etre curieux envers les inconnus
+
+Note: https://cercle.institut-pandore.com/mentalisme/devenir-empathique-5-etapes/
 
 
 
-
-## plus sérieusement
+## Plus sérieusement
 
 Plus d'empathie requiert en général:
 
-- attention
-- appréciation
-- validation
+- attention: prendre au sérieux
+- appréciation: être prêt à remettre en cause son point de vue (humilité)
+- validation: gratifier/remercier
 
-Lorsqu'on ne s'intéresse pas vraiment aux autres, le language non verbal traduit notre pensée
+(ce bon vieux PDCA)

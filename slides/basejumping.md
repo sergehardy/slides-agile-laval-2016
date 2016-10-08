@@ -1,4 +1,4 @@
-# Prêts pour le grand saut?
+## Prêts pour le grand saut?
 
 
 
@@ -8,17 +8,7 @@
 
 
 
-
-<!--<video controls data-autoplay type="video/mp4">
-	 <source data-src="resources/basejump.mp4#t=109" />
-</video>
--->
-
-
-## 	
-
-
-Qu'avez-vous ressenti?
+## Qu'avez-vous ressenti?
 
 NB: vous êtes assis sur une chaise.
 
