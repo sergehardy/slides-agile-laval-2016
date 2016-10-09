@@ -5,8 +5,13 @@ Démonstration par l'exemple: un standup meeting
 ![](resources/stand-up-meeting.jpg)
 
 Note:
+Sans doute le rituel agile par lequel on commence en générale car simple et peu coûteux
+Pour autant est-ce toujours efficace?
 
-- ça va? mouaif
+Avez-vous déjà experimentés des Standup où chacun se contente de raconter ce qu'il a fait et ce qu'il va faire?
+
+
+- ça va? mouaif  => Pb si personne ne va chercher à savoir pourquoi
 - une phrase bien compliquée de quelqu'un qui a passé une bonne journée mais personne ne comprend pourquoi => intérêt des démos, du feedback metier
 - l'un des deux regarde son smartphone
 J'ai fait un rebase interactif pour merger les commits à pusher sur la qual.
@@ -15,9 +20,6 @@ bienveillance et disponibilité
 ( regard, posture)
 
 Rétros
-Daily meeting
-
-Avez-vous déjà experimentés des Standup où chacun se contente de raconter ce qu'il a fait et ce qu'il va faire?
 
 
 
@@ -27,8 +29,13 @@ Ecouter avec les yeux
 
 <img src="resources/my-eyes-are-up-here.jpg" width="350px" />
 
+
 Note:
 Lorsqu'on ne s'intéresse pas vraiment aux autres, le language non verbal traduit notre pensée
+"La méthode la plus simple et la plus efficace pour
+transmettre de l’information à l'équipe de développement
+et à l’intérieur de celle-ci est le dialogue en face à face. "
+
 
 
 ## Outil 2: Gemba walk
@@ -39,12 +46,10 @@ Voir avec les pieds
 
 
 Note:
-
 Patron qui va se mettre dans la peau d'un employé pour se reconnecter à la réalité
-
 Qui a un manager/patron de ce genre?
-
 cf Management Workout
+
 
 
   
