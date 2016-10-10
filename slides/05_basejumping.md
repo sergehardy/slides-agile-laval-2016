@@ -2,9 +2,12 @@
 
 
 
-<iframe id="ytplayer" type="text/html" width="640" height="390"
+<!--<iframe id="ytplayer" type="text/html" width="640" height="390"
   src="http://www.youtube.com/embed/AMRebnmq6CU?autoplay=0&origin=http://example.com"
-  frameborder="0"/>
+  frameborder="0"/>-->
+ <video controls data-autoplay type="video/mp4">
+	 <source data-src="resources/basejump.mp4#t=109" />
+ </video>
 
 
 
