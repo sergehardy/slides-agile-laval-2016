@@ -1,0 +1,71 @@
+
+J'ai une idée : je voudrais un Robot compagnon
+
+http://www.tom.travel/wp-content/uploads/2015/10/japon_robot_traducteur.jpg
+
+Démarche : 
+
+https://www.informatik-aktuell.de/fileadmin/templates/wr/pics/Artikel/01_Management/Projektmanagement/Lean5-Innovation-mit-agilen.jpg
+
+Empathy map : 
+
+Utilisateurs : http://nerdsontherocks.com/wp-content/uploads/2015/12/JediKnights.jpg
+http://magiccityjedi.com/wp-content/uploads/2016/02/Magic-City-Jedi-Group.jpg
+
+
+Think & feel => Un robot qui puisse m'accompagner dans mes voyages
+Hear => Un robot qui parle dans plusieurs langues
+See => Un robot qui ressemble à un homme, qui brille
+Say and do => Je donne des ordres et il obéit
+
+Gain : pas besoin d'apprendre de nouvelles langues pour voyager. Plus jamais seul.
+Pain : je ne peux pas parler toutes les langues possibles
+
+
+Lean startup
+
+Maquettes, plans : 
+- http://67.media.tumblr.com/3d753c8691e4c69a27c73893b0075cd5/tumblr_ntiwt9Gf0e1rir6lho3_1280.jpg
+- http://english-draw.salabun.com/img/10_3.jpg
+- https://www.universeguide.com/pictures/c3poartistimpression.jpg
+
+Designer : http://static.comicvine.com/uploads/original/11113/111130545/3580810-9049500674-jar-.j.jpeg
+
+Prototypes : 
+- http://media.topito.com/wp-content/uploads/2011/03/robot_celebre_006.jpg (Nono le robot)
+- http://media.topito.com/wp-content/uploads/2011/03/robot_celebre_001.jpg (terminator)
+- http://media.topito.com/wp-content/uploads/2011/03/robot_celebre_007.jpg (robocop)
+
+Test and validate : 
+MVPs
+- http://www.traducteurs-electroniques.fr/895-thickbox_default/franklin-bfq-475.jpg
+- http://gb.images.s3.amazonaws.com/wp-content/uploads/2012/01/WALLE.png
+- https://www.universeguide.com/pictures/c3powithoutgoldenskin.jpg (squelette C3-PO) 
+
+Outils : écouter avec ses yeux, voir avec ses pieds (Gemba Walk)
+
+Agilité :
+- Le PO : http://4.bp.blogspot.com/-owDId04LUIk/UZ-Rb0m4UHI/AAAAAAAAg2Y/zvP5-rKdbcU/s1600/Yoda2.jpg
+- Le Scrum master : http://www.metro.us/_internal/gxml!0/r0dc21o2f3vste5s7ezej9x3a10rp3w$nmf7rg1psd55ph956vdcc8ycwjlckha/jedi-3.jpeg
+- L'équipe de dev : http://i.telegraph.co.uk/multimedia/archive/03167/starwars_3167803b.jpg
+
+Empathie agilité : exemple SUM
+BDD empathique
+
+Ops : http://media.meltybuzz.fr/article-2954345-ajust_930-f168366491/chewbacca-l-original.jpg
+Equipe DevOps : https://s-media-cache-ak0.pinimg.com/564x/81/31/69/8131693c69884889ac103ea17fa8ff8b.jpg
+
+Empathie DevOps
+(slide DevOps)
+
+
+
+## Carte vs Territoir
+
+- On a des façons différentes de voir les choses
+- L'empathie est une posture qui permet de lire la carte de l'autre, comprendre pourquoi on ne comprend pas les choses de la même manière.
+
+
+
+
+
