@@ -31,44 +31,10 @@ L'évolution de l'humanité tend vers un renforcement de cette cohésion.
 
 
 
-## Composante systémique
+## La Carte n'est pas le Territoire
 
-
-<img src="resources/tchoutchou.jpg" width="400px" />
-
-Paradoxe entropie/empathie
+<img src="resources/carte.jpg" width="700px" />
 
 Note:
-
-Deux phénomènes historiquement disjoints mais qui convergent de manière paradoxale
-
-Société qui concourt à l'état d'équilibre vers une conscience globale via les TIC
-Mais qui n'est pas durable car bilan énérgétique très défavorable
-
-=> équilibre à trouver 
-
-Dans la théorie des systèmes complexes qui peut s'appliquer à la thermodynamique ou à un groupe d'individus,
-la notion fondamentale est celle d'interaction, de feedback
-
-Ces interactions peuvent créer de l'ordre ou du désordre (entropie).
-
-L'empathie est une interaction positive qui crée de l'ordre et nécessite un apport d'energie pour garder sa stabilité.
-
-Cet apport d'energie doit être "soutenable"
-Donc ça ne peut pas marcher sans y mettre du sien.
----------------------------------------------------
-Les moyens de communication et de transport sont énergivore.
-
-Avec les TIC, pour plus d'empathie il faut plus d'énergie, c'est un des défis de demain.
-
-Pour être plus empathique notre facture énergétique augmente.
-
-Mais l'empathie crée de l'ordre dans un système complexe (moins de déchets)
-
-=> Equilibre à trouver
-Thermodynamique
-
-EMPATHIE SYSTEMIQUE
-
-Agir en priorisant la performance du système entreprise et en étant au service des autres.
-Agir avec empathie et mettre de côté ses propres succès pour favoriser le succès des autres et surtout celui du système auquel on appartient (système entreprise = entreprise à performance économique, sociale et sociétale donc système ouvert). Cela suppose de fonctionner dans des logiques de processus.
+On a des façons différentes de voir les choses
+L'empathie est une posture qui permet de lire la carte de l'autre, comprendre pourquoi on ne comprend pas les choses de la même manière.
