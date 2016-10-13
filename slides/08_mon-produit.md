@@ -10,13 +10,17 @@ Mais je suis un ingénieur...
 
 ## Démarche
 
-<img src="resources/Lean5-Innovation-mit-agilen.jpg" width="700px" />
+<img src="resources/Lean5-Innovation-mit-agilen.jpg" width="600px" />
+
+(c) Nils Bernert
 
 
 
 ## Des utilisateurs
 
-<img src="resources/Magic-City-Jedi-Group.jpg" width="600px" />
+<img src="resources/Magic-City-Jedi-Group.jpg" width="700px" />
+
+Source : http://magiccityjedi.com/
 
 
 
@@ -48,6 +52,11 @@ Pain : je ne peux pas parler toutes les langues possibles
 <img src="resources/robot_celebre_006.jpg" height="200px" />
 
 <img src="resources/robot_celebre_001.jpg" height="200px" />  <img src="resources/robot_celebre_007.jpg" height="200px" />
+
+
+
+## Lean startup : tester et valider
+<img src="resources/emotional-design.png" height="500px" />
 
 
 
