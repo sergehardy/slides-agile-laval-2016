@@ -2,8 +2,6 @@
 
 ![](resources/evolution.jpg)
 
-Et vous ?
-
 Note:
 
 l'agilité est un des reflets de l'évolution des rapports humains qui va vers plus d'interactions et plus d'empathie
@@ -25,6 +23,19 @@ Ceci tend à inverser les rapports économique et intellectuels: altruisme inenv
 Ex:
 - open-source
 - wikipidia
+
+
+
+## Conclusion
+
+La connaissance est accessible, le savoir est ouvert.
+
+Nouveau enjeux pour l'éducation...
+
+
+Note:
+Savoir-être, bienveillance
+
 
 
 

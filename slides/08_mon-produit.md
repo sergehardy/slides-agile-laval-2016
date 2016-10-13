@@ -123,11 +123,3 @@ Rétros
 
 Jeff Sussna - 2014
 
-
-
-## DevOps et empathie
-
- - ___Culture___
- - Automatisation
- - Mesure
- - ___Partage___
