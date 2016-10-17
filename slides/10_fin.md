@@ -41,3 +41,5 @@ Ex:
 [J.C. Ameisen - Sur les épaules de Darwin - émission du 03/11/2012](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin/sur-les-epaules-de-darwin-03-novembre-2012)
 
 [J.C. Ameisen - Sur les épaules de Darwin - émission du 21/06/2014](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin/sur-les-epaules-de-darwin-21-juin-2014)
+
+[Leader Blogueur](http://www.leader-blogueur.com/category/lintelligence-sociale/etre-empathique/)
